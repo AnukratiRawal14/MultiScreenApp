@@ -47,7 +47,7 @@ public class tabB2 extends Fragment {
         color.add(colors);
 
 
-        colors = new  Model("Orange",R.drawable.orange,R.raw.orange);
+        colors = new  Model("Orange",R.drawable.orangecolor,R.raw.orange);
         color.add(colors);
 
 
